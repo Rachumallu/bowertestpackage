@@ -1,0 +1,25 @@
+{
+  "name": "sample-package",
+  "description": "testfile",
+  "main": "tt.js",
+  "moduleType": [],
+  "keywords": [
+    "[sample",
+    "test]"
+  ],
+  "authors": [
+    "Michael Geary <mike@geary.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/swathi/sample-package",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1"
+  }
+}
